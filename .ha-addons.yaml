@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  shinobi:
+    repository: ha-addons/shinobi
+    target: shinobi
+    image: hassioaddons/shinobi-{arch}
